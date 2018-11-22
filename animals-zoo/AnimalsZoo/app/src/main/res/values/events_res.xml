@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="events_items">
+        <item>@array/event_item_1</item>
+        <item>@array/event_item_2</item>
+        <item>@array/event_item_3</item>
+        <item>@array/event_item_1</item>
+        <item>@array/event_item_2</item>
+        <item>@array/event_item_3</item>
+        <item>@array/event_item_1</item>
+        <item>@array/event_item_2</item>
+        <item>@array/event_item_3</item>
+        <item>@array/event_item_1</item>
+        <item>@array/event_item_2</item>
+        <item>@array/event_item_3</item>
+    </array>
+
+    <!--Events-->
+
+    <array name="event_item_1">
+        <item>Zoo Event 1</item>
+        <item>@drawable/zoo_event</item>
+        <item>Event 1 description</item>
+        <item>25.09.2017 20:00 PM</item>
+    </array>
+
+    <array name="event_item_2">
+        <item>Zoo Event 2</item>
+        <item>@drawable/zoo_event_1</item>
+        <item>Event 2 description</item>
+        <item>19.09.2017 16:25 PM</item>
+    </array>
+
+    <array name="event_item_3">
+        <item>Zoo Event 3</item>
+        <item>@drawable/zoo_event_2</item>
+        <item>Event 3 description</item>
+        <item>27.09.2017 17:30 PM</item>
+    </array>
+
+</resources>

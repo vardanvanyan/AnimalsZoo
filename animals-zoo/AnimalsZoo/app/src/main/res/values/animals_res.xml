@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="card_items">
+        <item>@array/card_item_1</item>
+        <item>@array/card_item_2</item>
+        <item>@array/card_item_3</item>
+        <item>@array/card_item_1</item>
+        <item>@array/card_item_2</item>
+        <item>@array/card_item_3</item>
+        <item>@array/card_item_1</item>
+        <item>@array/card_item_2</item>
+        <item>@array/card_item_3</item>
+        <item>@array/card_item_1</item>
+        <item>@array/card_item_2</item>
+        <item>@array/card_item_3</item>
+        <item>@array/card_item_1</item>
+        <item>@array/card_item_2</item>
+        <item>@array/card_item_3</item>
+    </array>
+
+    <!--Bears-->
+
+    <array name="card_item_1">
+        <item>Bears</item>
+        <item>@drawable/bear</item>
+        <item>@array/bears</item>
+    </array>
+
+    <array name="bears">
+        <item>@array/bear_1</item>
+        <item>@array/bear_2</item>
+        <item>@array/bear_3</item>
+        <item>@array/bear_4</item>
+        <item>@array/bear_5</item>
+        <item>@array/bear_6</item>
+    </array>
+
+    <array name="bear_1">
+        <item>Bear 1</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_2">
+        <item>Bear 2</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_3">
+        <item>Bear 3</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_4">
+        <item>Bear 4</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_5">
+        <item>Bear 5</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_6">
+        <item>Bear 6</item>
+        <item>@drawable/bear</item>
+        <item>Bear 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/bear_1_images</item>
+    </array>
+
+    <array name="bear_1_images">
+        <item>@drawable/bear</item>
+        <item>@drawable/bear</item>
+        <item>@drawable/bear</item>
+        <item>@drawable/bear</item>
+        <item>@drawable/bear</item>
+        <item>@drawable/bear</item>
+    </array>
+
+    <!--Dogs-->
+
+    <array name="card_item_2">
+        <item>Dogs</item>
+        <item>@drawable/haski</item>
+        <item>@array/dogs</item>
+    </array>
+
+    <array name="dogs">
+        <item>@array/dog_1</item>
+        <item>@array/dog_2</item>
+        <item>@array/dog_3</item>
+        <item>@array/dog_4</item>
+        <item>@array/dog_5</item>
+        <item>@array/dog_6</item>
+    </array>
+
+    <array name="dog_1">
+        <item>Dog 1</item>
+        <item>@drawable/haski</item>
+        <item>Dog intelligence is the ability of the dog to perceive information and retain it as knowledge for applying to solve problems. Dogs have been shown to learn by inference. A study with Rico showed that he knew the labels of over 200 different items. He inferred the names of novel items by exclusion learning and correctly retrieved those novel items immediately and also 4 weeks after the initial exposure. Dogs have advanced memory skills. A study documented the learning and memory capabilities of a border collie, "Chaser", who had learned the names and could associate by verbal command over 1,000 words. Dogs are able to read and react appropriately to human body language such as gesturing and pointing, and to understand human voice commands. Dogs demonstrate a theory of mind by engaging in deception. An experimental study showed compelling evidence that Australian dingos can outperform domestic dogs in non-social problem-solving, indicating that domestic dogs may have lost much of their original problem-solving abilities once they joined humans.[95] Another study indicated that after undergoing training to solve a simple manipulation task, dogs that are faced with an insoluble version of the same problem look at the human, while socialized wolves do not.[96] Modern domestic dogs use humans to solve their problems for them</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+
+    <array name="dog_2">
+        <item>Dog 2</item>
+        <item>@drawable/haski_1</item>
+        <item>Dog 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+
+    <array name="dog_3">
+        <item>Dog 3</item>
+        <item>@drawable/haski</item>
+        <item>Dog 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+
+    <array name="dog_4">
+        <item>Dog 4</item>
+        <item>@drawable/haski_2</item>
+        <item>Dog 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+
+    <array name="dog_5">
+        <item>Dog 5</item>
+        <item>@drawable/haski_1</item>
+        <item>Dog 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+
+    <array name="dog_6">
+        <item>Dog 6</item>
+        <item>@drawable/haski</item>
+        <item>Dog 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/dog_1_images</item>
+    </array>
+    <array name="dog_1_images">
+        <item>@drawable/haski_1</item>
+        <item>@drawable/haski_2</item>
+        <item>@drawable/haski</item>
+        <item>@drawable/haski_2</item>
+        <item>@drawable/haski</item>
+        <item>@drawable/haski_1</item>
+    </array>
+
+    <!--Cats-->
+
+    <array name="card_item_3">
+        <item>Cats</item>
+        <item>@drawable/cat</item>
+        <item>@array/cats</item>
+    </array>
+
+    <array name="cats">
+        <item>@array/cat_1</item>
+        <item>@array/cat_2</item>
+        <item>@array/cat_3</item>
+        <item>@array/cat_4</item>
+        <item>@array/cat_5</item>
+        <item>@array/cat_6</item>
+    </array>
+
+    <array name="cat_1">
+        <item>Cat 1</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_2">
+        <item>Cat 2</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_3">
+        <item>Cat 3</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_4">
+        <item>Cat 4</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_5">
+        <item>Cat 5</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_6">
+        <item>Cat 6</item>
+        <item>@drawable/cat</item>
+        <item>Cat 1 Description</item>
+        <item>http://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4</item>
+        <item>@array/cat_1_images</item>
+    </array>
+
+    <array name="cat_1_images">
+        <item>@drawable/cat</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/cat</item>
+    </array>
+
+</resources>
